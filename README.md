@@ -1,5 +1,12 @@
-### Hi there 👋
+<h3 align="center"> 👋 Hello! I'm Edwin Ing </h3>
+<p align="center"> B.S. in Computer Science @ <b>UIUC</b> </p>
+<br>
 
+<p align="center"> 
+  - I'm interested in computer graphics, VR, and machine learning. <br>
+  - I'm currently learning Unity and Flutter. <br>
+  - Email me at: edwinji2@illinois.edu <br>
+</p>
 <!--
 **EdwinIngJ/EdwinIngJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
