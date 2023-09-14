@@ -4,7 +4,7 @@
 
 <p align="center"> 
   - I'm interested in embedded systems, parallel programming, and machine learning. <br>
-  - I'm currently learning Unreal and Flutter. <br>
+  - I'm currently learning CUDA and Unreal. <br>
   - Email me at: edwinji2@illinois.edu <br>
 </p>
 <!--
