@@ -3,7 +3,7 @@
 <br>
 
 <p align="center"> 
-  - I'm interested in computer graphics, VR, and machine learning. <br>
+  - I'm interested in embedded systems, parallel programming, and machine learning. <br>
   - I'm currently learning Unreal and Flutter. <br>
   - Email me at: edwinji2@illinois.edu <br>
 </p>
