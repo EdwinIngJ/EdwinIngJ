@@ -3,8 +3,8 @@
 <br>
 
 <p align="center"> 
-  - I'm interested in embedded systems, parallel programming, and machine learning. <br>
-  - I'm currently learning CUDA and WebGL. <br>
+  - I'm interested in embedded systems, parallel programming, DevOps, and full stack. <br>
+  - I'm currently learning Distributed Systems and Compilers. <br>
   - Email me at: edwinji2@illinois.edu <br>
 </p>
 <!--
