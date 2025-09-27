@@ -3,7 +3,7 @@
 <br>
 
 <p align="center"> 
-  - I'm interested in embedded systems, parallel programming, DevOps, and full stack. <br>
+  - I'm interested in full-stack, networking, DevOps, and game dev. <br>
   - I'm currently learning Distributed Systems and Compilers. <br>
   - Email me at: edwinji2@illinois.edu <br>
 </p>
