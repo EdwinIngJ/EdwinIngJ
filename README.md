@@ -1,5 +1,5 @@
 <h3 align="center"> 👋 Hello! I'm Edwin Ing </h3>
-<p align="center"> B.S. in Computer Science @ <b>UIUC</b> </p>
+<p align="center"> BS-MCS in Computer Science @ <b>UIUC</b> </p>
 <br>
 
 <p align="center"> 
